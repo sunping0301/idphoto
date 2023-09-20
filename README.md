@@ -1,7 +1,7 @@
 ---
-privacy agreement
+Nova ID Photo privacy agreement
 ---
-ID photo&amp;Passport Assistant("us", "we", or "our") operates the ID Photo mobile application (hereinafter referred to as the "Service").
+Nova ID photo&amp;Passport Assistant("us", "we", or "our") operates the ID Photo mobile application (hereinafter referred to as the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
