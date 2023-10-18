@@ -15,7 +15,7 @@ We collect information in order to provide you with better, higher-quality, and 
 (2)The data we collect depends on the context of your interactions with us, the choices you make, including your privacy settings, and the products and features you use.   
 The data we collect can include SDK/API/JS code version, Internet service provider, IP address, platform, timestamp, application identifier, application version, application distribution channel, independent deice identifier, Android ad master identifier, network card (MAC) address, and international mobile device identification code (IMEI) The equipment model, the terminal manufacturer, the terminal device operating system version, the session start / stop time, the location of the language, the time zone and the network state (WiFi and so on), the hard disk, the CPU, and the battery use, etc.  
 
-**How we use your information**  
+**How We Use Your information**  
 We use the information collected through this application product:  
 
 (1) Help you make ID photos and passports;  
