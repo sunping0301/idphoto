@@ -16,38 +16,38 @@ Information provided by the User:
 (2)information received while assisting the User in the operation of the Service.  
 
 Give an example of using user data:  
-payment service providers who provide us with up-to-date information about the payment method based on their relationship with the User and data such as name, surname, address data, type and expiry date of the card, part of the data of the card number, tokens for payment processing;.
+payment service providers who provide us with up-to-date information about the payment method based on their relationship with the User and data such as name, surname, address data, type and expiry date of the card, part of the data of the card number, tokens for payment processing.  
 
-*Data collection
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy. 
-The app does use third-party services that may collect information used to identify you.
--Firebase(https://firebase.google.com/support/privacy)
--Google Play Services(https://policies.google.com/privacy)
--Google Analytics for Firebase(https://firebase.google.com/policies/analytics)
--Firebase Crashlytics(https://firebase.google.com/support/privacy?hl=zh-cn)
--Huawei segmentation(https://developer.huawei.com/consumer/en/doc/development/hiai-Guides/android-sdk-ys-0000001222765290)
+*Data collection  
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.   
+The app does use third-party services that may collect information used to identify you.  
+-Firebase(https://firebase.google.com/support/privacy)  
+-Google Play Services(https://policies.google.com/privacy)  
+-Google Analytics for Firebase(https://firebase.google.com/policies/analytics)  
+-Firebase Crashlytics(https://firebase.google.com/support/privacy?hl=zh-cn)  
+-Huawei segmentation(https://developer.huawei.com/consumer/en/doc/development/hiai-Guides/android-sdk-ys-0000001222765290)  
 
-*Legal requirements
-Our app is for creating ID photos offline. After you take a photo or upload your own photo, we will not transfer any of your information to our server.
-Please be assured that we will not disclose any of your personal photos and information.
+*Legal requirements  
+Our app is for creating ID photos offline. After you take a photo or upload your own photo, we will not transfer any of your information to our server.  
+Please be assured that we will not disclose any of your personal photos and information.  
 
-*Analytics
-We may use third-party Service Providers to monitor and analyze the use of our Service.
-What are my opt-out rights?
-You can stop all collection of information by the Application simply by uninstalling the Application.
+*Analytics  
+We may use third-party Service Providers to monitor and analyze the use of our Service.  
+What are my opt-out rights?  
+You can stop all collection of information by the Application simply by uninstalling the Application.  
 
-*Children's Privacy
-Our App is not intended for anyone under the age of 4 ("Children").
-We do not collect personally identifiable information from anyone under the age of 4. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us.
-In the case we discover that a child has provided us with personally identifiable information, we immediately delete this from our servers. If you are a parent or guardian and are aware that you or your child has provided us with their personally identifiable information that you want us to remove, please contact us. We will take the necessary action to remove that information from our services.
+*Children's Privacy  
+Our App is not intended for anyone under the age of 4 ("Children").  
+We do not collect personally identifiable information from anyone under the age of 4. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us.  
+In the case we discover that a child has provided us with personally identifiable information, we immediately delete this from our servers. If you are a parent or guardian and are aware that you or your child has provided us with their personally identifiable information that you want us to remove, please contact us. We will take the necessary action to remove that information from our services.  
 
-*Changes To This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+*Changes To This Privacy Policy  
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.  
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.  
 
-*Acceptance of these conditions
-By using our services, you accept this Privacy Policy. Otherwise, please do not use our services. Your continued use of our services following any changes to this Policy will be deemed to constitute acceptance of such changes.
+*Acceptance of these conditions  
+By using our services, you accept this Privacy Policy. Otherwise, please do not use our services. Your continued use of our services following any changes to this Policy will be deemed to constitute acceptance of such changes.  
 
-*Contact Us
-If you have any questions about this Privacy Policy, please contact us:
-By email:sunping0301@gmail.com
+*Contact Us  
+If you have any questions about this Privacy Policy, please contact us:  
+By email:sunping0301@gmail.com  
