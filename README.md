@@ -7,15 +7,15 @@ This page informs you of our policies regarding the collection, use, and disclos
 
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
-*Information Collection And Use
-When you access the Service with a mobile device, we may collect certain information automatically.
+*Information Collection And Use  
+When you access the Service with a mobile device, we may collect certain information automatically.  
 
-We collect and store the following data about users:
-Information provided by the User:
-(1)information received during the complaint process, if the User lodges a complaint;
-(2)information received while assisting the User in the operation of the Service.
+We collect and store the following data about users:  
+Information provided by the User:  
+(1)information received during the complaint process, if the User lodges a complaint;  
+(2)information received while assisting the User in the operation of the Service.  
 
-Give an example of using user data:
+Give an example of using user data:  
 payment service providers who provide us with up-to-date information about the payment method based on their relationship with the User and data such as name, surname, address data, type and expiry date of the card, part of the data of the card number, tokens for payment processing;.
 
 *Data collection
