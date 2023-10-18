@@ -33,8 +33,14 @@ Please be assured that we will not disclose any of your personal photos and info
 
 **Analytics**  
 We may use third-party Service Providers to monitor and analyze the use of our Service.  
-What are my opt-out rights?  
 You can stop all collection of information by the Application simply by uninstalling the Application.  
+
+**Your rights**  
+Subject to limitations in applicable law, you are entitled to object to or request the restriction of processing of your Personal Data, and to request access to, rectification, erasure and portability of your own Personal Data.   
+Where the use of your information is based on consent, you can withdraw this consent at any time without affecting the lawfulness of processing based on consent before its withdrawal.  
+Requests should be submitted by contacting us through our developer account e-Mail on Google Play.  
+If you are aware of changes or inaccuracies in your information, you should inform us of such changes so that our records may be updated or corrected. You may lodge a complaint with a supervisory authority if you consider that our processing of your Personal Data infringes applicable law.  
+We retain your Personal Data as long as needed to provide services or products to you, or as required or permitted by applicable laws, such as tax and accounting laws.  
 
 **Children's Privacy**  
 Our App is not intended for anyone under the age of 4 ("Children").  
