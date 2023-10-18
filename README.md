@@ -38,7 +38,7 @@ The app does use third-party services that may collect information used to ident
 -Huawei segmentation(https://developer.huawei.com/consumer/en/doc/development/hiai-Guides/android-sdk-ys-0000001222765290)  
 
 **Legal requirements**  
-Our app is for creating ID photos offline. After you take a photo or upload your own photo, we will not transfer any of your information to our server.  
+Our app is for creating ID photos offline. After you take a photo, we will not transfer any of your information to our server.  
 Please be assured that we will not disclose any of your personal photos and information.  
 
 **Analytics**  
