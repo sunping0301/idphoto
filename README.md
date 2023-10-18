@@ -10,15 +10,16 @@ We use your data to provide and improve the Service. By using the Service, you a
 **How We Collect Information**  
 We collect information in order to provide you with better, higher-quality, and more personalized services. We collect information by the following means:  
 
-(1)When you use our email support services, we collect your correspondence in order to build up a public knowledge base, which will be available to all users of the site. Your correspondence will most likely not be used verbatim, but paraphrased in an FAQ format.  
+(1)When you use our email support services, we collect your correspondence. Your correspondence will most likely not be used verbatim, but paraphrased in an FAQ format.  
 
-(2)The data we collect depends on the context of your interactions with us, the choices you make, including your privacy settings, and the products and features you use. The data we collect can include SDK/API/JS code version, browser, Internet service provider, IP address, platform, timestamp, application identifier, application version, application distribution channel, independent deice identifier, Android ad master identifier, network card (MAC) address, and international mobile device identification code (IMEI) The equipment model, the terminal manufacturer, the terminal device operating system version, the session start / stop time, the location of the language, the time zone and the network state (WiFi and so on), the hard disk, the CPU, and the battery use, etc.  
+(2)The data we collect depends on the context of your interactions with us, the choices you make, including your privacy settings, and the products and features you use.   
+The data we collect can include SDK/API/JS code version, Internet service provider, IP address, platform, timestamp, application identifier, application version, application distribution channel, independent deice identifier, Android ad master identifier, network card (MAC) address, and international mobile device identification code (IMEI) The equipment model, the terminal manufacturer, the terminal device operating system version, the session start / stop time, the location of the language, the time zone and the network state (WiFi and so on), the hard disk, the CPU, and the battery use, etc.  
 
 **How we use your information**  
 We use the information collected through this application product:  
 
 (1) Help you make ID photos and passports;  
-After you take a photo, we will make the ID photo locally and offline and will not upload your data to our server.
+After you take a photo, we will make the ID photo locally and offline and will not upload your data to our server.  
 (2) Process your request to purchase membership;  
 Give an example of using user data:
 payment service providers who provide us with up-to-date information about the payment method based on their relationship with the User and data such as name, surname, address data, type and expiry date of the card, part of the data of the card number, tokens for payment processing.  
