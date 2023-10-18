@@ -1,67 +1,53 @@
 ---
 Nova ID Photo privacy agreement
 ---
-Nova ID photo&amp;Passport Assistant("us", "we", or "our") operates the ID Photo mobile application (hereinafter referred to as the "Service").
+Your privacy is important to Our App Service. Our Privacy Policy covers how we collect, use, disclose, transfer, and store your information. We hope our policy is straightforward and easy-to-understand. Please take a minute to review the details of our privacy practices below.
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
-Information Collection And Use
-When you access the Service with a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data ("Usage Data").
+*Information Collection And Use
+When you access the Service with a mobile device, we may collect certain information automatically.
 
-Use of Data
-ID Photo uses the collected data for various purposes:
--To provide and maintain the Service
--To notify you about changes to our Service
--To allow you to participate in interactive features of our Service when you choose to do so
--To provide customer care and support
--To provide analysis or valuable information so that we can improve the Service
--To monitor the usage of the Service
--To detect, prevent and address technical issues
-Transfer Of Data
-Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
-If you are located outside China and choose to provide information to us, please note that we transfer the data, including Personal Data, to China and process it there.
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-ID Photo will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+We collect and store the following data about users:
+Information provided by the User:
+(1)information received during the complaint process, if the User lodges a complaint;
+(2)information received while assisting the User in the operation of the Service.
 
-Legal Requirements
-ID Photo may disclose your Personal Data in the good faith belief that such action is necessary to:
--To comply with a legal obligation
--To protect and defend the rights or property of ID Photo
--To prevent or investigate possible wrongdoing in connection with the Service
--To protect the personal safety of users of the Service or the public
--To protect against legal liability
-Security Of Data
-The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
-Do third parties see and/or have access to information obtained by the Application?
-Only aggregated, anonymized data is periodically transmitted to the analytics tools which help us evaluate the Application’s usage patterns and improve the Application over time. We will share your information with third parties only in the ways that are described in this privacy statement.
-We may disclose User Provided and Automatically Collected Information:
-as required by law, such as to comply with a subpoena, or a similar legal process;
-when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+Give an example of using user data:
+payment service providers who provide us with up-to-date information about the payment method based on their relationship with the User and data such as name, surname, address data, type and expiry date of the card, part of the data of the card number, tokens for payment processing;.
 
-Service Providers
-We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
-These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+*Data collection
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy. 
+The app does use third-party services that may collect information used to identify you.
+-Firebase(https://firebase.google.com/support/privacy)
+-Google Play Services(https://policies.google.com/privacy)
+-Google Analytics for Firebase(https://firebase.google.com/policies/analytics)
+-Firebase Crashlytics(https://firebase.google.com/support/privacy?hl=zh-cn)
+-Huawei segmentation(https://developer.huawei.com/consumer/en/doc/development/hiai-Guides/android-sdk-ys-0000001222765290)
 
-Analytics
+*Legal requirements
+Our app is for creating ID photos offline. After you take a photo or upload your own photo, we will not transfer any of your information to our server.
+Please be assured that we will not disclose any of your personal photos and information.
+
+*Analytics
 We may use third-party Service Providers to monitor and analyze the use of our Service.
 What are my opt-out rights?
 You can stop all collection of information by the Application simply by uninstalling the Application.
 
-Links To Other Sites
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+*Children's Privacy
+Our App is not intended for anyone under the age of 4 ("Children").
+We do not collect personally identifiable information from anyone under the age of 4. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us.
+In the case we discover that a child has provided us with personally identifiable information, we immediately delete this from our servers. If you are a parent or guardian and are aware that you or your child has provided us with their personally identifiable information that you want us to remove, please contact us. We will take the necessary action to remove that information from our services.
 
-Children's Privacy
-Our Service does not address anyone under the age of 4("Children").
-We do not knowingly collect personally identifiable information from anyone under the age of 4. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
-
-Changes To This Privacy Policy
+*Changes To This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-Contact Us
+*Acceptance of these conditions
+By using our services, you accept this Privacy Policy. Otherwise, please do not use our services. Your continued use of our services following any changes to this Policy will be deemed to constitute acceptance of such changes.
+
+*Contact Us
 If you have any questions about this Privacy Policy, please contact us:
--By email:sunping0301@gmail.com
+By email:sunping0301@gmail.com
