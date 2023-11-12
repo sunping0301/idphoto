@@ -35,7 +35,6 @@ The app does use third-party services that may collect information used to ident
 -Google Play Services(https://policies.google.com/privacy)  
 -Google Analytics for Firebase(https://firebase.google.com/policies/analytics)  
 -Firebase Crashlytics(https://firebase.google.com/support/privacy?hl=zh-cn)  
--Huawei segmentation(https://developer.huawei.com/consumer/en/doc/development/hiai-Guides/android-sdk-ys-0000001222765290)  
 
 **Legal requirements**  
 Our app is for creating ID photos offline. After you take a photo, we will not transfer any of your information to our server.  
